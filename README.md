@@ -1,1 +1,2 @@
 # landing-page
+This project involves making a webpage from scratch using HTML and CSS, I have been given a refrence image of the final design and I am to try and get it completed in a similar way to the design. The only help i've received is an image with the fonts/styles/colors used.
