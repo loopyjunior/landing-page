@@ -1,5 +1,27 @@
 .header{
-    background: #1d68d1;
+    background: #1f2937;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+.header-left, .header-right{
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+.logo{
     color: white;
-    height: 72px;
+    font-size: 24px;
+}
+ul{
+    display: flex;
+    gap: 16px;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: gray;
 }
